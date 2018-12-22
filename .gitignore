@@ -1,4 +1,35 @@
-CardGame/Temp/*
-CardGame/.vs/*
-CardGame/obj/Debug/*
-CardGame/Library/*
+# .gitignore
+
+# Unity
+CardGame/[Ll]ibrary/
+CardGame/[Tt]emp/
+CardGame/[Oo]bj/
+CardGame/[Bb]uild/
+CardGame/[Bb]uilds/
+CardGame/Assets/AssetStoreTools*
+sysinfo.txt
+*.pidb.meta
+
+# Visual Studio 2015/2017 cache/options directory
+CardGame/.vs/
+
+# VS/Rider/MD/Consulo
+ExportedObj/
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+ 
+# Builds
+*.apk
+*.unitypackage
+*.app
+*.exe
