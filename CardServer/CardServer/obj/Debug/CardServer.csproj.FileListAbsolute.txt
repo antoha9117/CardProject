@@ -1,0 +1,10 @@
+c:\users\ярослав\documents\visual studio 2015\Projects\CardServer\CardServer\bin\Debug\CardServer.exe.config
+c:\users\ярослав\documents\visual studio 2015\Projects\CardServer\CardServer\bin\Debug\CardServer.exe
+c:\users\ярослав\documents\visual studio 2015\Projects\CardServer\CardServer\bin\Debug\CardServer.pdb
+c:\users\ярослав\documents\visual studio 2015\Projects\CardServer\CardServer\obj\Debug\CardServer.csprojResolveAssemblyReference.cache
+c:\users\ярослав\documents\visual studio 2015\Projects\CardServer\CardServer\obj\Debug\CardServer.exe
+c:\users\ярослав\documents\visual studio 2015\Projects\CardServer\CardServer\obj\Debug\CardServer.pdb
+C:\Users\Ярослав\Documents\Visual Studio 2015\Projects\CardServer\CardServer\bin\Debug\MySql.Data.dll
+C:\Users\Ярослав\Documents\Visual Studio 2015\Projects\CardServer\CardServer\bin\Debug\Google.Protobuf.dll
+C:\Users\Ярослав\Documents\Visual Studio 2015\Projects\CardServer\CardServer\bin\Debug\MySql.Data.xml
+C:\Users\Ярослав\Documents\Visual Studio 2015\Projects\CardServer\CardServer\bin\Debug\adodb.dll

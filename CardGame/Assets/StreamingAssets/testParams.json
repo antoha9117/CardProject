@@ -1,0 +1,9 @@
+{
+	"nameID": card_TestCard,
+	"nameCard": Тестовая Карта,
+	"description": Описание карты,
+	"attack": 1,
+	"heals": 1,
+	"manaCost": 3
+	"artwork": art_test
+}
