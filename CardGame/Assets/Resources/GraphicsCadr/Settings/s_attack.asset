@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Name: s_attack
   m_EditorClassIdentifier: 
   spriteRenderer:
-    sprite: {fileID: 21300000, guid: 3fd805a5f64fb224ca32a0765770cf53, type: 3}
+    sprite: {fileID: 21300000, guid: ccfe675ead197bd45b9b54a8522e2a98, type: 3}
     material: {fileID: 0}
     sortingOrder: 2
   transform:
-    position: {x: -1.69, y: -3.26, z: 0}
+    position: {x: -2.07, y: -2.92, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
-    scale: {x: 1, y: 1, z: 1}
+    scale: {x: 0.7762089, y: 0.7762089, z: 0.7762089}
   text:
     fontSize: 12
     fontStyles: 0

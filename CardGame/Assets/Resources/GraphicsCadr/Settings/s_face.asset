@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: s_face
   m_EditorClassIdentifier: 
   spriteRenderer:
-    sprite: {fileID: 21300000, guid: 831c324884a3cc143bff61715930bc56, type: 3}
+    sprite: {fileID: 21300000, guid: c2a566c2c5d837e43a510aa43f8887aa, type: 3}
     material: {fileID: 0}
     sortingOrder: 0
   transform:

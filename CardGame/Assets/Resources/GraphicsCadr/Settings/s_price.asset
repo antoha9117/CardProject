@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Name: s_price
   m_EditorClassIdentifier: 
   spriteRenderer:
-    sprite: {fileID: 21300000, guid: 035f0921a4534c24399ba6351b71920b, type: 3}
+    sprite: {fileID: 21300000, guid: d43d02b2c6adcb444bdd5c9c64a1042e, type: 3}
     material: {fileID: 0}
     sortingOrder: 2
   transform:
-    position: {x: 1.72, y: 3.04, z: 0}
+    position: {x: -2, y: 2.92, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
-    scale: {x: 1, y: 1, z: 1}
+    scale: {x: 0.79929, y: 0.79929, z: 0.79929}
   text:
     fontSize: 12
     fontStyles: 0

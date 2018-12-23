@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Name: s_morale
   m_EditorClassIdentifier: 
   spriteRenderer:
-    sprite: {fileID: 21300000, guid: db4bebc113759d6429f050fcd37137ce, type: 3}
+    sprite: {fileID: 21300000, guid: ca1938d914446254892cd21674fb824b, type: 3}
     material: {fileID: 0}
     sortingOrder: 2
   transform:
-    position: {x: 0, y: -3.37, z: 0}
+    position: {x: -0.02, y: -3.23, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
-    scale: {x: 1, y: 1, z: 1}
+    scale: {x: 0.83693, y: 0.83693, z: 0.83693}
   text:
     fontSize: 12
     fontStyles: 0
