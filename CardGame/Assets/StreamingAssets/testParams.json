@@ -1,9 +1,1 @@
-{
-	"nameID": card_TestCard,
-	"nameCard": Тестовая Карта,
-	"description": Описание карты,
-	"attack": 1,
-	"heals": 1,
-	"manaCost": 3
-	"artwork": art_test
-}
+﻿{ "value": [{ "nameID": "cardTestCard", "nameCard": "cardTestCard" , "artwork_name": "maxresdefault" }, { "nameID": "cardTestCard111", "nameCard": "cardTestCard" , "artwork_name": "34" }]}
