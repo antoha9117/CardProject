@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -227,11 +227,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70410eb2ce0525742a63be2e6107a5d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m: {fileID: 0}
-  way_to_txt_file: E:\FORT\Net\GitHub\CardProject\CardGame\Assets\ScriptableObjects\Create
-    Cards\StreamingAssets\testParams.json
-  way_to_sprites: criptableObjects/Create Cards/Sprites Cards/s Cards/
-  way_to_scriptableobject: Assets/ScriptableObjects/Create Cards/cards/
+  json_file: testParams.json
+  waytospritesfolden: 
+  wayandnameofallcardasset: Assets/ScriptableObjects/Cards/collection
+  allcards: {fileID: 0}
 --- !u!20 &495135405
 Camera:
   m_ObjectHideFlags: 0
